@@ -13,7 +13,7 @@ import { GithubService } from './services/github.service';
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <a class="navbar-brand" href="#">Github Search</a>
+          <a class="navbar-brand" href="/">Github Search</a>
         </div>
         <div id="navbar" class="collapse navbar-collapse">
         </div><!--/.nav-collapse -->
